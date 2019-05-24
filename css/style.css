@@ -1,0 +1,66 @@
+*{
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box; 
+    
+}
+#wrapper{
+    
+}
+
+.navbar-nav{
+    float:none;
+    margin:0 auto;
+    display: block;
+    text-align: center;
+}
+
+.navbar-nav > li {
+    display: inline-block;
+    float:none;
+}
+
+
+
+
+#header{
+    background-image: url(../img/Desktop.svg); 
+    width: 100%; 
+    height: 100vh; 
+    background-size: cover; 
+    background-repeat: no-repeat;
+}
+.mainpage{
+    height: 100vh; 
+}
+
+.day-icon{
+    background-color: rgb(96, 245, 96); 
+    border-radius: 50%; 
+    width: 80px; 
+
+    
+}
+
+#goto{
+    height:35vh; 
+    width: 100%; 
+    background-color: #90acfc;
+}
+
+.gotoyourtheme{
+   height: 100%;
+
+}
+
+#comm{
+    background-color: rgb(231, 234, 240); 
+
+}
+#prof{
+    background-color: blue;
+}
+
+#int,#grad{
+    background-color:rgb(78, 78, 207);
+}
